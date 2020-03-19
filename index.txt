@@ -1,1 +1,2 @@
 revise file in the staging area
+changed the file after first commit
